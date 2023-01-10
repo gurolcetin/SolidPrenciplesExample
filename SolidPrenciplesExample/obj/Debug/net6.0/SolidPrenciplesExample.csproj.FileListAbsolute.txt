@@ -1,0 +1,15 @@
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\bin\Debug\net6.0\SolidPrenciplesExample.exe
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\bin\Debug\net6.0\SolidPrenciplesExample.deps.json
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\bin\Debug\net6.0\SolidPrenciplesExample.runtimeconfig.json
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\bin\Debug\net6.0\SolidPrenciplesExample.dll
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\bin\Debug\net6.0\SolidPrenciplesExample.pdb
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.csproj.AssemblyReference.cache
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.AssemblyInfoInputs.cache
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.AssemblyInfo.cs
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.csproj.CoreCompileInputs.cache
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.dll
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\refint\SolidPrenciplesExample.dll
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.pdb
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\SolidPrenciplesExample.genruntimeconfig.cache
+C:\Development\SolidPrenciplesExample\SolidPrenciplesExample\obj\Debug\net6.0\ref\SolidPrenciplesExample.dll
