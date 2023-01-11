@@ -10,14 +10,14 @@
 
     public class BetweenMyAccounts
     {
-        public void DoMoneyTransfer(decimal amount, string sourceAccount, string destinationAccount)
+        public override void DoMoneyTransfer(decimal amount, string sourceAccount, string destinationAccount)
         {
             throw new NotImplementedException();
         }
     }
     public class ToAnotherReceiverRemittanceorEFT
     {
-        public void DoMoneyTransfer(decimal amount, string sourceAccount, string destinationAccount)
+        public override void DoMoneyTransfer(decimal amount, string sourceAccount, string destinationAccount)
         {
             throw new NotImplementedException();
         }
