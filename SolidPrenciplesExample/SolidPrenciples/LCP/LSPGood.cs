@@ -13,7 +13,7 @@
     {
         public void DoMoneyTransfer();
     }
-    public abstract class BankomatCard : Card, IBankomatCard
+    public class BankomatCard : Card, IBankomatCard
     {
         public string? AccountNumber { get; set; }
 
@@ -31,7 +31,7 @@
     {
         public void PayDebt();
     }
-    public abstract class CreditCard : Card, ICreditCard
+    public class CreditCard : Card, ICreditCard
     {
         public string? CreditCardNumber { get; set; }
         public void PayDebt()
